@@ -57,10 +57,12 @@ In this repository, I've utilized several key technologies to create amazing web
 
 |  #  | Web Games                                                              | Live Demo                                                        |
 | :-: | ---------------------------------------------------------------------- | ---------------------------------------------------------------- |
-| 01  | [Rock Paper Scissor](https://github.com/Pranav-Jadhav09/Code-Bank)     | [Live Demo](https://code-bank-website.onrender.com/)             |
-| 02  | [Memory Match v1](https://github.com/Pranav-Jadhav09/omnifood-website) | [Live Demo](https://pranav-jadhav09.github.io/omnifood-website/) |
-| 03  | [Memory Match v2](https://github.com/Pranav-Jadhav09/omnifood-website) | [Live Demo](https://pranav-jadhav09.github.io/omnifood-website/) |
-| 04  | [Tic Tac Toe](https://github.com/Pranav-Jadhav09/omnifood-website)     | [Live Demo](https://pranav-jadhav09.github.io/omnifood-website/) |
+| 01  | [Rock Paper Scissor](https://github.com/Pranav-Jadhav09/rockpaperscissor-game)     | [Live Demo](https://github.com/Pranav-Jadhav09/rockpaperscissor-game)             |
+| 02  | [Memory Match v1](https://github.com/Pranav-Jadhav09/memory-card-game-v1) | [Live Demo](https://memorycard-game-v1-jrpranav.netlify.app/) |
+| 03  | [Memory Match v2](https://github.com/Pranav-Jadhav09/memory-card-game-v2) | [Live Demo](https://memory-card-game-v2-jrpranav.netlify.app/) |
+| 04  | [Tic Tac Toe](https://github.com/Pranav-Jadhav09/tic-tac-toe)     | [Live Demo](https://tic-tac-toe-jrpranav.netlify.app/) |
+| 05  | [Pig Dice Game](https://github.com/Pranav-Jadhav09/pig-dice-game)     | [Live Demo](https://pig-dice-game-jrpranav.netlify.app/) |
+| 06  | [Number Nest](https://github.com/Pranav-Jadhav09/number-nest-game)     | [Live Demo](https://pranav-jadhav09.github.io/number-nest-game/) |
 
 <br />
 
