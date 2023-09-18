@@ -45,13 +45,15 @@ In this repository, I've utilized several key technologies to create amazing web
 
 |  #  | Landing Page                                                       | Live Demo                                                        |
 | :-: | ------------------------------------------------------------------ | ---------------------------------------------------------------- |
-| 01  | [Home Smart](https://github.com/Pranav-Jadhav09/Code-Bank)         | [Live Demo](https://code-bank-website.onrender.com/)             |
-| 02  | [Airpods](https://github.com/Pranav-Jadhav09/omnifood-website)     | [Live Demo](https://pranav-jadhav09.github.io/omnifood-website/) |
-| 03  | [Lamborghini](https://github.com/Pranav-Jadhav09/omnifood-website) | [Live Demo](https://pranav-jadhav09.github.io/omnifood-website/) |
-| 04  | [Pepsi](https://github.com/Pranav-Jadhav09/omnifood-website)       | [Live Demo](https://pranav-jadhav09.github.io/omnifood-website/) |
-| 05  | [Coca Cola](https://github.com/Pranav-Jadhav09/omnifood-website)   | [Live Demo](https://pranav-jadhav09.github.io/omnifood-website/) |
-| 06  | [Facebook](https://github.com/Pranav-Jadhav09/omnifood-website)    | [Live Demo](https://pranav-jadhav09.github.io/omnifood-website/) |
-| 07  | [Starbucks](https://github.com/Pranav-Jadhav09/omnifood-website)   | [Live Demo](https://pranav-jadhav09.github.io/omnifood-website/) |
+| 01  | [Home Smart](https://github.com/Pranav-Jadhav09/Home-Smart)         | [Live Demo](https://home-smart-website.onrender.com/)             |
+| 02  | [Airpods](https://github.com/Pranav-Jadhav09/responsive-airpods-landing-page)     | [Live Demo](https://pranav-jadhav09.github.io/responsive-airpods-landing-page/) |
+| 03  | [Lamborghini](https://github.com/Pranav-Jadhav09/responsive-lamborghini-landing-page) | [Live Demo](https://pranav-jadhav09.github.io/responsive-lamborghini-landing-page/) |
+| 04  | [Pepsi](https://github.com/Pranav-Jadhav09/responsive-pepsi-landing-page)       | [Live Demo](https://pranav-jadhav09.github.io/responsive-pepsi-landing-page/) |
+| 05  | [Coca Cola](https://github.com/Pranav-Jadhav09/responsive-coca-cola-landing-page)   | [Live Demo](https://pranav-jadhav09.github.io/responsive-coca-cola-landing-page/) |
+| 06  | [Facebook](https://github.com/Pranav-Jadhav09/responsive-facebook-landing-page)    | [Live Demo](https://pranav-jadhav09.github.io/responsive-facebook-landing-page/) |
+| 07  | [Starbucks](https://github.com/Pranav-Jadhav09/responsive-starbucks-landing-page)   | [Live Demo](https://pranav-jadhav09.github.io/responsive-starbucks-landing-page/) |
+| 08  | [Coffee 3D](https://github.com/Pranav-Jadhav09/responsive-coffee-shop-landing-page)   | [Live Demo](https://pranav-jadhav09.github.io/responsive-coffee-shop-landing-page/) |
+| 09  | [Error 404](https://github.com/Pranav-Jadhav09/responsive-error-page)   | [Live Demo](https://pranav-jadhav09.github.io/responsive-error-page/) |
 
 <br />
 
