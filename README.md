@@ -19,24 +19,19 @@ I've utilized several **_Key Technologies_** to create amazing web projects as l
 
 <b>Front-end :</b> <br />
 
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flate-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flate-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flate-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-badge&logo=typescript&logoColor=white) <br />
-
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=flat-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=flat-badge&logo=bootstrap&logoColor=white)<br />
-
-![React](https://img.shields.io/badge/React.js-%2320232a.svg?style=flat-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=flat-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=flat-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=flat-badge&logo=redux&logoColor=white) ![Next JS](https://img.shields.io/badge/Next.js-black?style=flat-badge&logo=next.js&logoColor=white) <br />
-
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flate-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flate-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flate-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=flat-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=flat-badge&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/React.js-%2320232a.svg?style=flat-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=flat-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=flat-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=flat-badge&logo=redux&logoColor=white) ![Next JS](https://img.shields.io/badge/Next.js-black?style=flat-badge&logo=next.js&logoColor=white)
 <br />
 
 <b>Back-end :</b> <br />
 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-badge&logo=php&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=flat-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat-badge&logo=express&logoColor=%2361DAFB) <br />
-
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flate-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=flate-badge&logo=firebase&logoColor=black)<br />
-
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=flat-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat-badge&logo=express&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=flate-badge&logo=firebase&logoColor=black)
 <br />
 
 <b>Libraries :</b> <br />
@@ -46,6 +41,8 @@ I've utilized several **_Key Technologies_** to create amazing web projects as l
 
 <br />
 <br />
+
+<b>Projects :</b> <br />
 
 |  #  | Websites                                                        | Live Demo                                                        |
 | :-: | --------------------------------------------------------------- | ---------------------------------------------------------------- |
