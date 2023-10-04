@@ -67,6 +67,7 @@ I've utilized several **_Key Technologies_** to create amazing web projects as l
 | 03  | [Memory Match v2](https://github.com/Pranav-Jadhav09/memory-card-game-v2)       | [Live Demo](https://memory-card-game-v2-jrpranav.netlify.app/)             |
 | 04  | [Pig Dice](https://github.com/Pranav-Jadhav09/pig-dice-game)       | [Live Demo](https://pig-dice-game-jrpranav.netlify.app/)             |
 | 05  | [Number Nest](https://github.com/Pranav-Jadhav09/number-nest-game)       | [Live Demo](https://pranav-jadhav09.github.io/number-nest-game/)             |
+| 06  | [Rock Paper Scissor](https://github.com/Pranav-Jadhav09/rockpaperscissor-game)       | [Live Demo](https://rockpaperscissor-jrpranav.netlify.app/)             |
 
 <br />
 
