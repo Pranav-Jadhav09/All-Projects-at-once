@@ -55,9 +55,15 @@ I've utilized several **_Key Technologies_** to create amazing web projects as l
 
 |  #  | Landing Pages                                                   | Live Demo                                                        |
 | :-: | --------------------------------------------------------------- | ---------------------------------------------------------------- |
-| 01  | [Omnifood](https://github.com/Pranav-Jadhav09/omnifood-website) | [Live Demo](https://pranav-jadhav09.github.io/omnifood-website/) |
-| 02  | [Acme Rockets](https://github.com/Pranav-Jadhav09/Acme-Rockets) | [Live Demo](https://acme-rockets-website.onrender.com/)          |
-| 03  | [Code Bank](https://github.com/Pranav-Jadhav09/Code-Bank)       | [Live Demo](https://code-bank-website.onrender.com/)             |
+| 01  | [Home Smart](https://github.com/Pranav-Jadhav09/omnifood-website) | [Live Demo](https://pranav-jadhav09.github.io/omnifood-website/) |
+| 02  | [Coca Cola](https://github.com/Pranav-Jadhav09/Acme-Rockets) | [Live Demo](https://acme-rockets-website.onrender.com/)          |
+| 03  | [Pepsi](https://github.com/Pranav-Jadhav09/Code-Bank)       | [Live Demo](https://code-bank-website.onrender.com/)             |
+| 04  | [Starbucks](https://github.com/Pranav-Jadhav09/Code-Bank)       | [Live Demo](https://code-bank-website.onrender.com/)             |
+| 05  | [Lamborghini](https://github.com/Pranav-Jadhav09/Code-Bank)       | [Live Demo](https://code-bank-website.onrender.com/)             |
+| 06  | [Error 404](https://github.com/Pranav-Jadhav09/Code-Bank)       | [Live Demo](https://code-bank-website.onrender.com/)             |
+| 06  | [Facebook](https://github.com/Pranav-Jadhav09/Code-Bank)       | [Live Demo](https://code-bank-website.onrender.com/)             |
+| 07  | [Apple Air pods](https://github.com/Pranav-Jadhav09/Code-Bank)       | [Live Demo](https://code-bank-website.onrender.com/)             |
+| 08  | [Love Coffee](https://github.com/Pranav-Jadhav09/Code-Bank)       | [Live Demo](https://code-bank-website.onrender.com/)             |
 
 <br />
 
