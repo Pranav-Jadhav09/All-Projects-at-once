@@ -62,9 +62,11 @@ I've utilized several **_Key Technologies_** to create amazing web projects as l
 
 |  #  | Games                                                           | Live Demo                                                        |
 | :-: | --------------------------------------------------------------- | ---------------------------------------------------------------- |
-| 01  | [Omnifood](https://github.com/Pranav-Jadhav09/omnifood-website) | [Live Demo](https://pranav-jadhav09.github.io/omnifood-website/) |
-| 02  | [Acme Rockets](https://github.com/Pranav-Jadhav09/Acme-Rockets) | [Live Demo](https://acme-rockets-website.onrender.com/)          |
-| 03  | [Code Bank](https://github.com/Pranav-Jadhav09/Code-Bank)       | [Live Demo](https://code-bank-website.onrender.com/)             |
+| 01  | [Tic Tac Toe](https://github.com/Pranav-Jadhav09/tic-tac-toe) | [Live Demo](https://tic-tac-toe-jrpranav.netlify.app/) |
+| 02  | [Memory Match v1](https://github.com/Pranav-Jadhav09/memory-card-game-v1) | [Live Demo](https://memorycard-game-v1-jrpranav.netlify.app/)          |
+| 03  | [Memory Match v2](https://github.com/Pranav-Jadhav09/memory-card-game-v2)       | [Live Demo](https://memory-card-game-v2-jrpranav.netlify.app/)             |
+| 04  | [Pig Dice](https://github.com/Pranav-Jadhav09/pig-dice-game)       | [Live Demo](https://pig-dice-game-jrpranav.netlify.app/)             |
+| 05  | [Number Nest](https://github.com/Pranav-Jadhav09/number-nest-game)       | [Live Demo](https://pranav-jadhav09.github.io/number-nest-game/)             |
 
 <br />
 
