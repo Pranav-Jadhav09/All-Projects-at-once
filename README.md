@@ -44,9 +44,9 @@ I've utilized several **_Key Technologies_** to create amazing web projects as l
 
 <b>Projects :</b> <br />
 
-|  #  | Websites                                                        | Live Demo                                                        |
-| :-: | --------------------------------------------------------------- | ---------------------------------------------------------------- |
-| 01  | [Omnifood](https://github.com/Pranav-Jadhav09/omnifood-website) | [Live Demo](https://pranav-jadhav09.github.io/omnifood-website/) |
+|  #  | Websites                                                        | Live Demo                                                        | 
+| :-: | --------------------------------------------------------------- | ---------------------------------------------------------------- | 
+| 01  | [Omnifood](https://github.com/Pranav-Jadhav09/omnifood-website) | [Live Demo](https://pranav-jadhav09.github.io/omnifood-website/) | 
 | 02  | [Acme Rockets](https://github.com/Pranav-Jadhav09/Acme-Rockets) | [Live Demo](https://acme-rockets-website.onrender.com/)          |
 | 03  | [Code Bank](https://github.com/Pranav-Jadhav09/Code-Bank)       | [Live Demo](https://code-bank-website.onrender.com/)             |
 | 04  | [Dashboard](https://github.com/Pranav-Jadhav09/dashboard-website)       | [Live Demo](https://dash-board-website.onrender.com/)             |
@@ -78,7 +78,7 @@ I've utilized several **_Key Technologies_** to create amazing web projects as l
 
 <br />
 
-|  #  | JavaScript Apps                                                 | Live Demo                                                        |
+|  #  | JavaScript (Utility) Projects                                                | Live Demo                                                        |
 | :-: | --------------------------------------------------------------- | ---------------------------------------------------------------- |
 | 01  | [Currency Converter](https://github.com/Pranav-Jadhav09/currency-converter-app) | [Live Demo](https://currency-converter-app-vlm4.onrender.com/) |
 | 02  | [News App](https://github.com/Pranav-Jadhav09/news-hub-app) | [Live Demo](https://www.linkedin.com/feed/update/urn:li:activity:7114994757163999232/)          |
