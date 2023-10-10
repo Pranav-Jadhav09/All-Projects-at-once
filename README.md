@@ -2,7 +2,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-# All Web Dev Projects Showcase
+# WebVerse: A Galaxy of Web Projects
 
 </div>
 
