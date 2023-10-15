@@ -6,8 +6,6 @@
 
 </div>
 
-
-
 Welcome to my **_Web Dev Projects_** Showcase repository! This space serves as a collection of projects. I've built while learning web development.
 
 <br />
@@ -44,65 +42,44 @@ I've utilized several **_Key Technologies_** to create amazing web projects as l
 
 <b>Projects :</b> <br />
 
-|  #  | Websites                                                        | Live Demo                                                        | 
-| :-: | --------------------------------------------------------------- | ---------------------------------------------------------------- | 
-| 01  | [Omnifood](https://github.com/Pranav-Jadhav09/omnifood-website) | [Live Demo](https://pranav-jadhav09.github.io/omnifood-website/) | 
-| 02  | [Acme Rockets](https://github.com/Pranav-Jadhav09/Acme-Rockets) | [Live Demo](https://acme-rockets-website.onrender.com/)          |
-| 03  | [Code Bank](https://github.com/Pranav-Jadhav09/Code-Bank)       | [Live Demo](https://code-bank-website.onrender.com/)             |
-| 04  | [Dashboard](https://github.com/Pranav-Jadhav09/dashboard-website)       | [Live Demo](https://dash-board-website.onrender.com/)             |
+| 👉🏻 WebApps  | Repository                                           | Live Preview                        |
+| ----------- | ---------------------------------------------------- | ----------------------------------- |
+| Omnifood    | [🗂 Repo](https://github.com/tailwindcss/tailwindcss) | [🌐 Live](https://tailwindcss.com)  |
+| Bankist     | [🗂 Repo](https://github.com/twbs/bootstrap)          | [🌐 Live](https://getbootstrap.com) |
+| Anon        | [🗂 Repo](https://github.com/twbs/bootstrap)          | [🌐 Live](https://getbootstrap.com) |
+| VidTube     | [🗂 Repo](https://github.com/twbs/bootstrap)          | [🌐 Live](https://getbootstrap.com) |
+| Social Book | [🗂 Repo](https://github.com/twbs/bootstrap)          | [🌐 Live](https://getbootstrap.com) |
 
 <br />
 
-|  #  | Landing Pages                                                   | Live Demo                                                        |
-| :-: | --------------------------------------------------------------- | ---------------------------------------------------------------- |
-| 01  | [Home Smart](https://github.com/Pranav-Jadhav09/omnifood-website) | [Live Demo](https://pranav-jadhav09.github.io/omnifood-website/) |
-| 02  | [Coca Cola](https://github.com/Pranav-Jadhav09/Acme-Rockets) | [Live Demo](https://acme-rockets-website.onrender.com/)          |
-| 03  | [Pepsi](https://github.com/Pranav-Jadhav09/Code-Bank)       | [Live Demo](https://code-bank-website.onrender.com/)             |
-| 04  | [Starbucks](https://github.com/Pranav-Jadhav09/Code-Bank)       | [Live Demo](https://code-bank-website.onrender.com/)             |
-| 05  | [Lamborghini](https://github.com/Pranav-Jadhav09/Code-Bank)       | [Live Demo](https://code-bank-website.onrender.com/)             |
-| 06  | [Error 404](https://github.com/Pranav-Jadhav09/Code-Bank)       | [Live Demo](https://code-bank-website.onrender.com/)             |
-| 06  | [Facebook](https://github.com/Pranav-Jadhav09/Code-Bank)       | [Live Demo](https://code-bank-website.onrender.com/)             |
-| 07  | [Apple Air pods](https://github.com/Pranav-Jadhav09/Code-Bank)       | [Live Demo](https://code-bank-website.onrender.com/)             |
-| 08  | [Love Coffee](https://github.com/Pranav-Jadhav09/Code-Bank)       | [Live Demo](https://code-bank-website.onrender.com/)             |
+| 👉🏻 Utility Apps | Repository                                           | Live Preview                        |
+| --------------- | ---------------------------------------------------- | ----------------------------------- |
+| Omnifood        | [🗂 Repo](https://github.com/tailwindcss/tailwindcss) | [🌐 Live](https://tailwindcss.com)  |
+| Bankist         | [🗂 Repo](https://github.com/twbs/bootstrap)          | [🌐 Live](https://getbootstrap.com) |
+| Anon            | [🗂 Repo](https://github.com/twbs/bootstrap)          | [🌐 Live](https://getbootstrap.com) |
+| VidTube         | [🗂 Repo](https://github.com/twbs/bootstrap)          | [🌐 Live](https://getbootstrap.com) |
+| Social Book     | [🗂 Repo](https://github.com/twbs/bootstrap)          | [🌐 Live](https://getbootstrap.com) |
 
 <br />
 
-|  #  | Games                                                           | Live Demo                                                        |
-| :-: | --------------------------------------------------------------- | ---------------------------------------------------------------- |
-| 01  | [Tic Tac Toe](https://github.com/Pranav-Jadhav09/tic-tac-toe) | [Live Demo](https://tic-tac-toe-jrpranav.netlify.app/) |
-| 02  | [Memory Match v1](https://github.com/Pranav-Jadhav09/memory-card-game-v1) | [Live Demo](https://memorycard-game-v1-jrpranav.netlify.app/)          |
-| 03  | [Memory Match v2](https://github.com/Pranav-Jadhav09/memory-card-game-v2)       | [Live Demo](https://memory-card-game-v2-jrpranav.netlify.app/)             |
-| 04  | [Pig Dice](https://github.com/Pranav-Jadhav09/pig-dice-game)       | [Live Demo](https://pig-dice-game-jrpranav.netlify.app/)             |
-| 05  | [Number Nest](https://github.com/Pranav-Jadhav09/number-nest-game)       | [Live Demo](https://pranav-jadhav09.github.io/number-nest-game/)             |
-| 06  | [Rock Paper Scissor](https://github.com/Pranav-Jadhav09/rockpaperscissor-game)       | [Live Demo](https://rockpaperscissor-jrpranav.netlify.app/)             |
+| 👉🏻 Landing Pages | Repository                                           | Live Preview                        |
+| ---------------- | ---------------------------------------------------- | ----------------------------------- |
+| Omnifood         | [🗂 Repo](https://github.com/tailwindcss/tailwindcss) | [🌐 Live](https://tailwindcss.com)  |
+| Bankist          | [🗂 Repo](https://github.com/twbs/bootstrap)          | [🌐 Live](https://getbootstrap.com) |
+| Anon             | [🗂 Repo](https://github.com/twbs/bootstrap)          | [🌐 Live](https://getbootstrap.com) |
+| VidTube          | [🗂 Repo](https://github.com/twbs/bootstrap)          | [🌐 Live](https://getbootstrap.com) |
+| Social Book      | [🗂 Repo](https://github.com/twbs/bootstrap)          | [🌐 Live](https://getbootstrap.com) |
 
 <br />
 
-|  #  | JavaScript (Utility) Projects                                                | Live Demo                                                        |
-| :-: | --------------------------------------------------------------- | ---------------------------------------------------------------- |
-| 01  | [Currency Converter](https://github.com/Pranav-Jadhav09/currency-converter-app) | [Live Demo](https://currency-converter-app-vlm4.onrender.com/) |
-| 02  | [News App](https://github.com/Pranav-Jadhav09/news-hub-app) | [Live Demo](https://www.linkedin.com/feed/update/urn:li:activity:7114994757163999232/)          |
-| 03  | [Calculator App v1](https://github.com/Pranav-Jadhav09/Calculator-app)       | [Live Demo](https://calculator-app-site.onrender.com/)             |
+| 👉🏻 Games    | Repository                                           | Live Preview                        |
+| ----------- | ---------------------------------------------------- | ----------------------------------- |
+| Omnifood    | [🗂 Repo](https://github.com/tailwindcss/tailwindcss) | [🌐 Live](https://tailwindcss.com)  |
+| Bankist     | [🗂 Repo](https://github.com/twbs/bootstrap)          | [🌐 Live](https://getbootstrap.com) |
+| Anon        | [🗂 Repo](https://github.com/twbs/bootstrap)          | [🌐 Live](https://getbootstrap.com) |
+| VidTube     | [🗂 Repo](https://github.com/twbs/bootstrap)          | [🌐 Live](https://getbootstrap.com) |
+| Social Book | [🗂 Repo](https://github.com/twbs/bootstrap)          | [🌐 Live](https://getbootstrap.com) |
 
-<br />
-
-|  #  | Front-end Apps                                                  | Live Demo                                                        |
-| :-: | --------------------------------------------------------------- | ---------------------------------------------------------------- |
-| 01  | [Omnifood](https://github.com/Pranav-Jadhav09/omnifood-website) | [Live Demo](https://pranav-jadhav09.github.io/omnifood-website/) |
-| 02  | [Acme Rockets](https://github.com/Pranav-Jadhav09/Acme-Rockets) | [Live Demo](https://acme-rockets-website.onrender.com/)          |
-| 03  | [Code Bank](https://github.com/Pranav-Jadhav09/Code-Bank)       | [Live Demo](https://code-bank-website.onrender.com/)             |
-
-<br />
-
-|  #  | Complete Web Apps                                               | Live Demo                                                        |
-| :-: | --------------------------------------------------------------- | ---------------------------------------------------------------- |
-| 01  | [Omnifood](https://github.com/Pranav-Jadhav09/omnifood-website) | [Live Demo](https://pranav-jadhav09.github.io/omnifood-website/) |
-| 02  | [Acme Rockets](https://github.com/Pranav-Jadhav09/Acme-Rockets) | [Live Demo](https://acme-rockets-website.onrender.com/)          |
-| 03  | [Code Bank](https://github.com/Pranav-Jadhav09/Code-Bank)       | [Live Demo](https://code-bank-website.onrender.com/)             |
-
-<br />
-
-<br />
 <br />
 
 **_Thank you_** for visiting my **_Web Dev Projects Showcase_** repository. I hope these projects demonstrate my growth and dedication to improving my web development skills. Your feedback and suggestions are always appreciated. Happy exploring!
