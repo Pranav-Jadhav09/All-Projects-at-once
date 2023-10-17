@@ -82,6 +82,21 @@ I've utilized several **_Key Technologies_** to create amazing web projects as l
 
 <br />
 
+| 👉🏻 75Hard Challenge  | Repository                                           | Live Preview                        |
+| ----------- | ---------------------------------------------------- | ----------------------------------- |
+| Omnifood    | [🗂 Repo](https://github.com/tailwindcss/tailwindcss) | [🌐 Live](https://tailwindcss.com)  |
+| Bankist     | [🗂 Repo](https://github.com/twbs/bootstrap)          | [🌐 Live](https://getbootstrap.com) |
+| Anon        | [🗂 Repo](https://github.com/twbs/bootstrap)          | [🌐 Live](https://getbootstrap.com) |
+| VidTube     | [🗂 Repo](https://github.com/twbs/bootstrap)          | [🌐 Live](https://getbootstrap.com) |
+| Social Book | [🗂 Repo](https://github.com/twbs/bootstrap)          | [🌐 Live](https://getbootstrap.com) |
+| Omnifood    | [🗂 Repo](https://github.com/tailwindcss/tailwindcss) | [🌐 Live](https://tailwindcss.com)  |
+| Bankist     | [🗂 Repo](https://github.com/twbs/bootstrap)          | [🌐 Live](https://getbootstrap.com) |
+| Anon        | [🗂 Repo](https://github.com/twbs/bootstrap)          | [🌐 Live](https://getbootstrap.com) |
+| VidTube     | [🗂 Repo](https://github.com/twbs/bootstrap)          | [🌐 Live](https://getbootstrap.com) |
+| Social Book | [🗂 Repo](https://github.com/twbs/bootstrap)          | [🌐 Live](https://getbootstrap.com) |
+
+<br />
+
 **_Thank you_** for visiting my **_Web Dev Projects Showcase_** repository. I hope these projects demonstrate my growth and dedication to improving my web development skills. Your feedback and suggestions are always appreciated. Happy exploring!
 <br />
 <br />
